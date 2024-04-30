@@ -1,5 +1,5 @@
-import Tiptap from "./Tiptap.jsx";
-import './App.css';
+import Tiptap from "../src/Components/TipTap/Tiptap";
+import "./App.css";
 
 const App = () => {
   return (
